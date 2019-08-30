@@ -1,4 +1,4 @@
-set -eo pipefail
+seta -eo pipefail
 
 echo "--- :package: Build job checkout directory"
 
